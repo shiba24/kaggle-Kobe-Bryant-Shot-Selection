@@ -13,7 +13,7 @@ from xgboost.sklearn import XGBClassifier
 import xgboost as xgb
 
 
-datadir = "/Users/shintaro/work/kaggle-kobe/data/"
+datadir = "/Users/shintaro/work/kaggle-kobe/data/"      # please change here. this dir includes data.csv and sample_submission.csv
 datafile = "data.csv"
 
 
