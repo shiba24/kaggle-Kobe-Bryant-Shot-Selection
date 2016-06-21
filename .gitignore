@@ -1,1 +1,4 @@
 *.csv
+test.png
+.*
+*.pyc
