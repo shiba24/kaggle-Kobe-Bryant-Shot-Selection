@@ -3,7 +3,6 @@ import numpy as np
 import scipy as sp
 from sklearn_pandas import DataFrameMapper
 from sklearn.preprocessing import LabelBinarizer
-<<<<<<< HEAD
 from sklearn import mixture
 
 
